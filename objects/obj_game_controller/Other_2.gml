@@ -1,1 +1,0 @@
-audio_play_sound(snd_main_theme, 5, true);
